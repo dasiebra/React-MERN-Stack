@@ -4,7 +4,7 @@ import HttpError from '../models/http-error.js';
 
 // Define a constant API_KEY that will be used to authenticate the request to the
 // Google Maps Geocoding API.
-const API_KEY = 'AIzaSyA_8hHfDXulmJOwXHU-DhN1zt4oC_eK4Fg';
+const API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
 
 // Define an asynchronous function called getCoordsForAddress that takes an address
